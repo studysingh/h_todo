@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+  margin: 5px 0px;
+  padding: 5px;
+  justify-content: space-between;
+}
+.date{
+  width: 25%;
+}
+.enter{
+  width: 50%;
+}
